@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 778a5471d2dcfe247b77f298e849d229, type: 3}
+  m_Name: RainForestLandsSprite
+  m_EditorClassIdentifier: 
+  images:
+  - imageName: Layout1Land1
+    sprite: {fileID: 21300000, guid: bb551feafbd985a47a36f6253775aafe, type: 3}
+  - imageName: Layout1Land2
+    sprite: {fileID: 21300000, guid: 591bbb409baf01040b16d257b529daa8, type: 3}
+  - imageName: Layout1Land3
+    sprite: {fileID: 21300000, guid: 06a48c3d6a4bd3f4cbb6e71eb7c74bc6, type: 3}
+  - imageName: Layout1Land4
+    sprite: {fileID: 21300000, guid: 49aa65eea21b6f5418a208d41aaa23e9, type: 3}
+  - imageName: Layout1Land5
+    sprite: {fileID: 21300000, guid: 6f5c890e7b3c3af49a55f477aa105443, type: 3}
+  - imageName: Layout1Land6
+    sprite: {fileID: 21300000, guid: 56dee79fe29b01c4581f3a8c024dde98, type: 3}
+  - imageName: Layout1Land7
+    sprite: {fileID: 21300000, guid: 99128002807356d4282e49c35fd93697, type: 3}
+  - imageName: Layout1Land8
+    sprite: {fileID: 21300000, guid: 25c70cb9811185d42b4852b2a41870c2, type: 3}
+  - imageName: Layout1Land9
+    sprite: {fileID: 21300000, guid: b29447a668e103e4ba83a018c79f03a8, type: 3}
+  - imageName: Layout1Land10
+    sprite: {fileID: 21300000, guid: 1a28f94fbdaeb5e40b140c9f48dbacd0, type: 3}
+  - imageName: Layout1Land11
+    sprite: {fileID: 21300000, guid: b8acde2c7ed4f594292a72b210fcbfdf, type: 3}
+  - imageName: Layout1Land12
+    sprite: {fileID: 21300000, guid: bf00e8009e8a409469fe6973fb61ed75, type: 3}
+  - imageName: Layout1Land12B
+    sprite: {fileID: 21300000, guid: 06604576159d10f4db83c62eae953d59, type: 3}

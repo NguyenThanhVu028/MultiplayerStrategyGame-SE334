@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd793f2497f1254a887434552dbd567, type: 3}
+  m_Name: MainColorPalette
+  m_EditorClassIdentifier: 
+  colorDetails:
+  - colorName: Red
+    color: {r: 1, g: 0.3529412, b: 0.3529412, a: 1}
+  - colorName: Yellow
+    color: {r: 1, g: 0.9803922, b: 0.3529412, a: 1}
+  - colorName: Blue
+    color: {r: 0.3529412, g: 0.74509805, b: 1, a: 1}
+  - colorName: Orange
+    color: {r: 1, g: 0.74509805, b: 0.3529412, a: 1}
+  - colorName: Purple
+    color: {r: 1, g: 0.3529412, b: 0.9803922, a: 1}
+  - colorName: Cyan
+    color: {r: 0.3529412, g: 1, b: 0.9803922, a: 1}
+  - colorName: Gray
+    color: {r: 0.5803922, g: 0.5803922, b: 0.5803922, a: 1}
+  - colorName: TransparentBlack
+    color: {r: 0, g: 0, b: 0, a: 0.83137256}
+  - colorName: 
+    color: {r: 0.74509805, g: 1, b: 0.9843137, a: 1}
+  - colorName: 
+    color: {r: 0, g: 0.5921569, b: 0.3372549, a: 1}

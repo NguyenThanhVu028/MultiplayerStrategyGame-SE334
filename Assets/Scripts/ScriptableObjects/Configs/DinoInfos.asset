@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6f7c5b91f172044968fba629409492, type: 3}
+  m_Name: DinoInfos
+  m_EditorClassIdentifier: 
+  infos:
+  - dinoName: Triceratop
+    prefabName: Triceratop
+    imageName: Triceratop
+    dinoInfo: "- Can consume bushes and trees to reproduce more dinos (30%)  \n-
+      Vulnerable to water (30% death rate) \n- Get killed by carnivorous dinosaurs"
+  - dinoName: Spinosaur
+    prefabName: Spinosaur
+    imageName: Spinosaur
+    dinoInfo: '- Water resistant
+
+      - Can kill other herbivores dinosaurs (5%)
+      but with a 10% death rate'
+  - dinoName: TRex
+    prefabName: TRex
+    imageName: TRex
+    dinoInfo: '- Can kill every dinosaurs (except for Pteranodon) (10%) but with
+      a 20% death rate
+
+      - Vulnerable to water (40% death rate)'
+  - dinoName: Pteranodon
+    prefabName: Pteranodon
+    imageName: Pteranodon
+    dinoInfo: '- Can''t be killed by any other dinosaurs'
